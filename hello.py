@@ -3,4 +3,5 @@ print("1.0")
 print("eeu")
 exit(0)
 print("tag")
-print("moiii")
+print("moiii") 
+print
